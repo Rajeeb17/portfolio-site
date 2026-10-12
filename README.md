@@ -14,7 +14,8 @@ Once GitHub Pages is enabled on this repo (Settings → Pages → Source: `main`
 ```
 https://<your-github-username>.github.io/portfolio-site/
 ```
-
+https://rajeeb17.github.io/portfolio-site/
+---
 ## Tech
 Plain HTML, CSS, and vanilla JavaScript — no build step, no dependencies. Just open `index.html` in a browser or deploy as-is to any static host (GitHub Pages, Netlify, Vercel, etc.).
 
